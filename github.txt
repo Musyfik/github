@@ -9,6 +9,9 @@ yang harus diperhatikan juga di windows itu di bagian credential manager :
 perintah :
 
  - git config --global --list
+ - git clean -n
+ - git clean -f
+ 
 
 
 
@@ -18,3 +21,5 @@ perintah :
 penjelasan :
 
  - git config --global --list : melihat configurasi global di git
+ - git clean -n : mengecek mana yang mau di hapus di untracked files
+ - git clean -f : menghapus semua file yang ada di untracked files
