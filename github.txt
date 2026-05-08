@@ -1,6 +1,3 @@
-
-
-
 yang harus diperhatikan juga di windows itu di bagian credential manager :
 
  - Credential Manager -> Windows Credentials -> Generic Credentials
@@ -12,11 +9,6 @@ perintah :
  - git clean -n
  - git clean -f
  
-
-
-
-
-
 
 penjelasan :
 
