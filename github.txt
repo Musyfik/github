@@ -1,0 +1,20 @@
+
+
+
+yang harus diperhatikan juga di windows itu di bagian credential manager :
+
+ - Credential Manager -> Windows Credentials -> Generic Credentials
+
+
+perintah :
+
+ - git config --global --list
+
+
+
+
+
+
+penjelasan :
+
+ - git config --global --list : melihat configurasi global di git
