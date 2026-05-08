@@ -1,2 +1,2 @@
 # GitHub
-Catatan untuk GitHub
+Catatan pribadi untuk GitHub
